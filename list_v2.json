@@ -1,0 +1,27 @@
+{
+  "sources": [
+    {
+      "tracksStorages": [
+        {
+          "urlTemplate": "raw.githubusercontent.com/seuyh/FckCensorDataAdditional/refs/heads/main/tracks/%%",
+          "trackIds": [
+            99697486,
+            99697494,
+            137656533,
+            77226183,
+            112873872,
+            124085087,
+            67570047,
+            106844308,
+            131240179,
+            106476833,
+            109647067,
+            107827233,
+            105628871,
+            107482028
+          ]
+        }
+      ]
+    }
+  ]
+}
